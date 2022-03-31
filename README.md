@@ -2,7 +2,7 @@
 
 App de Podcast integrada con la API de AudioBoom 
 
-live preview : ( https://powcast-frasser.vercel.app/ )
+live preview : ( https://powcast.vercel.app/ )
 
 ![Captura del home](./.readme-static/home.png)
 ![Captura reproductor](./.readme-static/reproductor.png)
