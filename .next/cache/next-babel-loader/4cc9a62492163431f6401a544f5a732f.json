@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nexport default class extends React.Component {\n  render() {\n    return __jsx(\"h1\", null, \"Vista de Canal\");\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
